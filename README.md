@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [John Adams!](https://github.com/john-adam-js)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/john-adams-ja/)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://john-adam-js.web.app/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://john-adams-js.web.app/)
 
 ### Glad to see you here! &nbsp;
 
